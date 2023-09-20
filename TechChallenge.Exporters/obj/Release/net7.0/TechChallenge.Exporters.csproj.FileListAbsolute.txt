@@ -1,0 +1,15 @@
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\bin\Release\net7.0\TechChallenge.Exporters.deps.json
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\bin\Release\net7.0\TechChallenge.Exporters.dll
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\bin\Release\net7.0\TechChallenge.Exporters.pdb
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\bin\Release\net7.0\TechChallenge.Common.dll
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\bin\Release\net7.0\TechChallenge.Common.pdb
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\obj\Release\net7.0\TechChallenge.Exporters.csproj.AssemblyReference.cache
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\obj\Release\net7.0\TechChallenge.Exporters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\obj\Release\net7.0\TechChallenge.Exporters.AssemblyInfoInputs.cache
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\obj\Release\net7.0\TechChallenge.Exporters.AssemblyInfo.cs
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\obj\Release\net7.0\TechChallenge.Exporters.csproj.CoreCompileInputs.cache
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\obj\Release\net7.0\TechChallenge.Exporters.csproj.CopyComplete
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\obj\Release\net7.0\TechChallenge.Exporters.dll
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\obj\Release\net7.0\refint\TechChallenge.Exporters.dll
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\obj\Release\net7.0\TechChallenge.Exporters.pdb
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Exporters\obj\Release\net7.0\ref\TechChallenge.Exporters.dll

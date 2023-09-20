@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tu0k8Spu6EY7OAb3iVTvYTzQkAIS4FlZQOHwiNzH1rBayRFw8jSEOd0Gyp+fRCfEGIzZM8jGFYt8SbsTKraiEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mazhar_Azure\\Downloads\\TechChallenge-main\\TechChallenge-main\\TechChallenge.Exporters\\TechChallenge.Exporters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mazhar_Azure\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

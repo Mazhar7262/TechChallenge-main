@@ -1,0 +1,12 @@
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Common\bin\Debug\net7.0\TechChallenge.Common.deps.json
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Common\bin\Debug\net7.0\TechChallenge.Common.dll
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Common\bin\Debug\net7.0\TechChallenge.Common.pdb
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Common\obj\Debug\net7.0\TechChallenge.Common.csproj.AssemblyReference.cache
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Common\obj\Debug\net7.0\TechChallenge.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Common\obj\Debug\net7.0\TechChallenge.Common.AssemblyInfoInputs.cache
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Common\obj\Debug\net7.0\TechChallenge.Common.AssemblyInfo.cs
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Common\obj\Debug\net7.0\TechChallenge.Common.csproj.CoreCompileInputs.cache
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Common\obj\Debug\net7.0\TechChallenge.Common.dll
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Common\obj\Debug\net7.0\refint\TechChallenge.Common.dll
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Common\obj\Debug\net7.0\TechChallenge.Common.pdb
+C:\Users\Mazhar_Azure\Downloads\TechChallenge-main\TechChallenge-main\TechChallenge.Common\obj\Debug\net7.0\ref\TechChallenge.Common.dll
